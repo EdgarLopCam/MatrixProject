@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywQ7zd3A5jlDSh1PctoyxUj1auj70JgoZ+DgkhNktngrRZjOl5F48jbXGUnGqs19dql1lsEY0IA7UpdZYAviYg==",
+  "success": true,
+  "projectFilePath": "E:\\Matrix\\MatrixProject\\MatrixProject\\MatrixProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
